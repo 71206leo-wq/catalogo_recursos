@@ -1,0 +1,5 @@
+- Google Académico (Google Scholar)
+- PubMed / MEDLINE
+- Scopus (Elsevier)
+- ScienceDirect
+- SciELO (Scientific Electronic Library Online)
