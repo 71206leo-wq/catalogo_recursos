@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titulo": "Documentación Oficial de Python",
+    "tipo": "Documentación",
+    "categoria": "Programación",
+    "descripcion": "Guía completa y manuales de referencia para el lenguaje Python.",
+    "url": "https://docs.python.org/es/"
+  },
+  {
+    "id": 2,
+    "titulo": "FreeCodeCamp",
+    "tipo": "Plataforma Educativa",
+    "categoria": "Desarrollo Web",
+    "descripcion": "Cursos interactivos gratuitos sobre programación y tecnologías web.",
+    "url": "https://www.freecodecamp.org/"
+  }
+]

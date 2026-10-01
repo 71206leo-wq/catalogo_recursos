@@ -1,0 +1,5 @@
+Proyecto colaborativo catalogo de recursos
+Descriçion: En este proyecto se creo una estructura inicial de un sistema que podria registrar y consultar libros, sitios web, videos, y herramientas de software aqui en esta parte solo es la estructura.
+Objetivo: Aplicar de manera autonoma el flujo de preparacion versionamiento y colaboracion de un proyecto colaborativo utilizando Visual Studio Code, Python, Git y Github.
+
+Proximas mejoras: 
