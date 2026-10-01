@@ -1,0 +1,1 @@
+Se podrian clasificar por Tipo, Tema, Autor, Editorial, Año de registro y Disponibilidad 

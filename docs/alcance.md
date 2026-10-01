@@ -1,0 +1,1 @@
+Podria registrar y consultar libros, sitios web y videos tod esto de manera autonoma con una ia integrada la cual facilitaria el trabajo del usuario ademas de podriamos implementar una interfaz para mayor visibilidad.
