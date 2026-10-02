@@ -1,5 +1,5 @@
-- Google Académico (Google Scholar)
-- PubMed / MEDLINE
-- Scopus (Elsevier)
-- ScienceDirect
-- SciELO (Scientific Electronic Library Online)
+- Google Académico (Google Scholar) | Google Academíco tiene la capacidad de mostrar la información de diferentes fuentes
+- PubMed / MEDLINE | PubMed es una base de datos de citas de publicaciones científicas y de artículos de revistas.
+- Scopus (Elsevier) | Base de datos bibliográfica de resúmenes, referencias y citas de literatura científica, técnica y académica
+- ScienceDirect | Plataforma digital y base de datos líder que ofrece acceso a literatura científica, técnica y médica.
+- SciELO (Scientific Electronic Library Online) | Base de datos de resúmenes, referencias y citas de literatura científica, técnica y académica.
